@@ -1,3 +1,4 @@
+/* Base font stack and smoothing maintained; detailed theming in App.css */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
